@@ -1,0 +1,10 @@
+C:\Users\super\Desktop\Lab1\Sum\bin\Debug\Sum.exe.config
+C:\Users\super\Desktop\Lab1\Sum\bin\Debug\Sum.exe
+C:\Users\super\Desktop\Lab1\Sum\bin\Debug\Sum.pdb
+C:\Users\super\Desktop\Lab1\Sum\obj\Debug\Sum.csproj.AssemblyReference.cache
+C:\Users\super\Desktop\Lab1\Sum\obj\Debug\Sum.Form1.resources
+C:\Users\super\Desktop\Lab1\Sum\obj\Debug\Sum.Properties.Resources.resources
+C:\Users\super\Desktop\Lab1\Sum\obj\Debug\Sum.csproj.GenerateResource.cache
+C:\Users\super\Desktop\Lab1\Sum\obj\Debug\Sum.csproj.CoreCompileInputs.cache
+C:\Users\super\Desktop\Lab1\Sum\obj\Debug\Sum.exe
+C:\Users\super\Desktop\Lab1\Sum\obj\Debug\Sum.pdb

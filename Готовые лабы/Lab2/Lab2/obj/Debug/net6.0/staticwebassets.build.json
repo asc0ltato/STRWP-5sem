@@ -1,0 +1,39 @@
+{
+  "Version": 1,
+  "Hash": "+QkAv9oLrb9KC/B+9gQloFxsDHNU2QJyII9aW3rjG+E=",
+  "Source": "Lab2",
+  "BasePath": "_content/Lab2",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "Lab2\\wwwroot",
+      "Source": "Lab2",
+      "ContentRoot": "C:\\Users\\super\\Desktop\\Lab2\\Lab2\\wwwroot\\",
+      "BasePath": "_content/Lab2",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\super\\Desktop\\Lab2\\Lab2\\wwwroot\\index.html",
+      "SourceId": "Lab2",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\super\\Desktop\\Lab2\\Lab2\\wwwroot\\",
+      "BasePath": "_content/Lab2",
+      "RelativePath": "index.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "PreferTarget",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    }
+  ]
+}
